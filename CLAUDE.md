@@ -29,6 +29,7 @@ Il Product Owner è l'utente umano: approva requisiti, revisioni e merge.
 - Un branch per issue: `feat/issue-<numero>`
 - Commit in stile Conventional Commits (`feat:`, `fix:`, `test:`, `docs:`, `chore:`)
 - Messaggi utente e documentazione in italiano, identificatori nel codice in inglese
+- Confronti su testo (email, ricerche, identificativi) senza distinzione tra maiuscole e minuscole, tranne le password
 
 ## Regole per gli agenti
 - Non modificare `.github/`, `.claude/` o `CLAUDE.md` salvo richiesta esplicita nell'issue
