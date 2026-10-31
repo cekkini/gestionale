@@ -1,0 +1,26 @@
+name: Nuova funzionalità
+description: Richiesta di funzionalità da far analizzare all'agente Analyst
+title: "[Feature] "
+labels: ["feature"]
+body:
+  - type: textarea
+    id: obiettivo
+    attributes:
+      label: Obiettivo
+      description: Che problema risolve e per chi
+    validations:
+      required: true
+  - type: textarea
+    id: comportamento
+    attributes:
+      label: Comportamento atteso
+      description: Cosa deve poter fare l'utente, con un esempio concreto
+    validations:
+      required: true
+  - type: textarea
+    id: vincoli
+    attributes:
+      label: Vincoli e fuori scope
+      description: Cosa non va fatto, limiti tecnici, dati sensibili
+    validations:
+      required: false

@@ -1,0 +1,4 @@
+# Sostituisci @TUO-USERNAME con il tuo utente GitHub
+*            @TUO-USERNAME
+/.github/    @TUO-USERNAME
+/.claude/    @TUO-USERNAME
