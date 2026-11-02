@@ -1,6 +1,6 @@
 # 001 - Anagrafica clienti: creare e leggere clienti
 
-**Stato:** PRONTA PER APPROVAZIONE (decisioni del Product Owner recepite)
+**Stato:** APPROVATA dal Product Owner
 **Autore:** Analyst
 
 ## Obiettivo
